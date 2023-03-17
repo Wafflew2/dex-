@@ -322,7 +322,7 @@ NewGuiPart14.BorderSizePixel = 0
 NewGuiPart14.Position = UDim2.new(0, 0, 0, -150)
 NewGuiPart14.Size = UDim2.new(0, 30, 0, 150)
 
-NewGuiPart15.Name = "Explorer"
+NewGuiPart15.Name = "Dex???"
 NewGuiPart15.Parent = NewGuiPart14
 NewGuiPart15.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart15.BackgroundTransparency = 1
